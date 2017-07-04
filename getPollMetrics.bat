@@ -12,7 +12,7 @@ rem set /a ss+=dd*86400
 rem endlocal 
 
 rem set timestamp=%ss%
-set timestamp=111111
+set timestamp=1499165598
 echo POLL_QUESTION_1 50 Online_poll %timestamp%
 echo POLL_QUESTION_2 33 Online_poll %timestamp%
 echo POLL_QUESTION_3 75 Online_poll %timestamp%
