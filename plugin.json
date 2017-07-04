@@ -1,5 +1,5 @@
 {
  "description" : "Provides Real Time online polls results",
- "command" : "getPollMetrics2.bat",
+ "command" : "java com.bmc.pulsemetrics.GetOnlinePollMetrics",
  "metrics" : ["POLL_QUESTION_1","POLL_QUESTION_2","POLL_QUESTION_3"]
 }
