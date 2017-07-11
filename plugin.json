@@ -1,5 +1,5 @@
 {
  "description" : "Provides Real Time online polls results",
  "command" : "getPollMetrics.bat",
- "metrics" : ["POLL_QUESTION_1"]
+ "metrics" : ["POLL_QUESTION_1","POLL_QUESTION_2","POLL_QUESTION_3"]
 }
